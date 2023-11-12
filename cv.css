@@ -112,7 +112,7 @@ header {
 #profile-image {
   max-width: 5%;
   height: auto;
-  border-radius: 50%;
+  border-radius: 10%;
   float: left;
   margin-right: 20px;
 }
